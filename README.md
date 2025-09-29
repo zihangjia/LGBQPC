@@ -15,7 +15,7 @@ The **LGBQPC** algorithm is designed for clustering tasks, particularly on datas
 ## Contents
 
 - `LGBQPC/` : MATLAB implementation of the LGBQPC algorithm.
-- `Datasets/` : All small-scale datasets (D1–D30) used in the experiments.
+- `datasets/` : All small-scale datasets (D1–D30) used in the experiments.
 - `README.md` : This file.
 
 ---
